@@ -1,6 +1,8 @@
-.DS_Store
-node_modules/
-dist/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+.idea
+*.log
+*.DS_Store
+/img/*
+webhook.php
+.inviteimg
+node_modules
+application/const.php
